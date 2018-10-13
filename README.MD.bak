@@ -27,7 +27,7 @@ schedule模块中；对应的，schedule模块中会同时存在业务逻辑和�
 - xxl-job-core：job调度核心模块
 
 5. 
-xxl-job是一款优秀成熟的轻量级项目，非常感谢作者xxl的贡献，更多了解请移步
+xxl-job是一款优秀成熟的项目，非常感谢作者xxl的贡献，更多了解请移步
 xxl-job官方仓库地址：https://github.com/xuxueli/xxl-job
 
 
