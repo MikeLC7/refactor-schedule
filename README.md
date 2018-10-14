@@ -1,6 +1,6 @@
 
 ---------------------
-#####2018/10/13 CommitVersion
+##### 2018/10/13 CommitVersion
 
 ---------------------
 1. 本项目意在做一个SpringCloud版本的定时任务方案的持续探索，实现方式和业务逻辑尽可能解耦；
@@ -32,7 +32,7 @@ xxl-job官方仓库地址：https://github.com/xuxueli/xxl-job
 
 
 ---------------------
-#####2018/07/11 InitVersion
+##### 2018/07/11 InitVersion
 
 ---------------------
 1. 使用xxl-job作为基础；封装为SpringCloud版本；
